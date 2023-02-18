@@ -1,2 +1,2 @@
 FROM nginx
-COPY . C:\tools\nginx-1.22.1\html
+COPY . /usr/share/nginx/html/
