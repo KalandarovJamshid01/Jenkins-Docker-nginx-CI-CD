@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /c/data/jenkins_home/workspace/Test_two/index.html
+COPY . C:\tools\nginx-1.22.1\html
